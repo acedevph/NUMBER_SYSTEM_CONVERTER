@@ -72,9 +72,9 @@ F = 15
 
 This project was created to:
 
- Help students understand **number systems used in computer science**
- Demonstrate **base conversion algorithms**
- Provide a **simple tool for quick number conversion**
+ * Help students understand **number systems used in computer science**
+ * Demonstrate **base conversion algorithms**
+ * Provide a **simple tool for quick number conversion**
 
 ---
 
